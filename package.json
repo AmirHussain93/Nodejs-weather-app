@@ -1,0 +1,23 @@
+{
+  "name": "Nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "Weather app is a website application which i have developed while learning Nodejs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirHussain93/Nodejs-weather-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirHussain93/Nodejs-weather-app/issues"
+  },
+  "homepage": "https://github.com/AmirHussain93/Nodejs-weather-app#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
